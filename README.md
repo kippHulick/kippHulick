@@ -1,7 +1,3 @@
-# 💫 About Me:
-🔭 I’m currently working on<br>🌱 I’m currently learning<br>💬 Ask me about
-
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kippHulick) 
 
